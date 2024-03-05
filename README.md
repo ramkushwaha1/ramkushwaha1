@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Terraform
 - 💞️ I’m looking to collaborate on exciting ideas
 - 📫 How to reach me mail me
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love open source
 
 <!---
