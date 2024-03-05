@@ -2,7 +2,6 @@
 - 👀 I’m interested in exploring new things
 - 🌱 I’m currently learning Terraform
 - 💞️ I’m looking to collaborate on exciting ideas
-- 📫 How to reach me mail me
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love open source
 
